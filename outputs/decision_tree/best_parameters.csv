@@ -1,0 +1,2 @@
+criterion,max_depth,max_features,min_samples_leaf,min_samples_split
+gini,3,sqrt,4,2

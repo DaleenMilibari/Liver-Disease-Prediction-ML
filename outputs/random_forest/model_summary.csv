@@ -1,0 +1,2 @@
+best_accuracy,best_f1_score,best_auc_roc,n_estimators,max_depth,top_features,features_used,overfitting_gap,cv_f1_mean,cv_f1_std,training_accuracy,test_accuracy
+0.7521367521367521,0.8449197860962567,0.770375620127569,50,30,"['Alkaline_Phosphotase', 'Aspartate_Aminotransferase', 'Age']",10,0.20709071567440662,0.829051013668851,0.021609600925672753,0.9592274678111588,0.7521367521367521

@@ -1,0 +1,2 @@
+best_accuracy,best_f1_score,best_auc_roc,tree_depth,n_leaves,top_features,overfitting_gap,cv_f1_mean,cv_f1_std
+0.6837606837606838,0.8021390374331551,0.7175761871013465,3,7,"['Direct_Bilirubin', 'Alkaline_Phosphotase', 'Age']",0.056582663878801176,0.8266117913176736,0.015363638319796372

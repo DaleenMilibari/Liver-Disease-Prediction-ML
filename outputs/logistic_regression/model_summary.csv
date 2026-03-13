@@ -1,0 +1,2 @@
+best_accuracy,best_f1_score,best_auc_roc,best_precision,best_recall,training_accuracy,overfitting_gap,cv_f1_mean,cv_f1_std,n_features,positive_coefficients,negative_coefficients,top_feature,top_feature_odds_ratio,intercept
+0.7692307692307693,0.8571428571428571,0.8561304039688166,0.7641509433962265,0.9759036144578314,0.7296137339055794,-0.0396170353251899,0.8301343407247399,0.018888660747364696,10,8,2,Albumin,0.3072948840841872,1.187592414626704
